@@ -1,0 +1,20 @@
+﻿{
+  "$schema": "http://schemastore.org/schemas/json/webjobs-list.json",
+  "WebJobs": [
+    {
+      "filePath": "../WebJob1/WebJob1.csproj"
+    },
+    {
+      "filePath": "../WebJob1/WebJob1.csproj"
+    },
+    {
+      "filePath": "../WebJob1/WebJob1.csproj"
+    },
+    {
+      "filePath": "../WebJobCon2/WebJobCon2.csproj"
+    },
+    {
+      "filePath": "../WebJobCon2/WebJobCon2.csproj"
+    }
+  ]
+}
